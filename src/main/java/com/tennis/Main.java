@@ -1,19 +1,6 @@
-package main.java.com.ismaillagouilly.tennis;
+package main.java.com.tennis;
 
 import java.util.Scanner;
-
-/**
- * Created by Ismail Lagouilly.
- */
-
-/* ******************************************************************************** */
-/*                                                                                  */
-/*  Main Class                                                                      */
-/*                                                                                  */
-/*  Contains the minimum instructions required to start up a Tennis Match.          */
-/*                                                                                  */
-/*                                                                                  */
-/* ******************************************************************************** */
 
 public class Main {
 

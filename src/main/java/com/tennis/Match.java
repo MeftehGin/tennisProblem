@@ -1,21 +1,4 @@
-package main.java.com.ismaillagouilly.tennis;
-
-
-
-/**
- * Created by Ismail Lagouilly.
- */
-
-/* ********************************************************************************* */
-/*                                                                                   */
-/*  Match Class                                                                      */
-/*                                                                                   */
-/*  Manages a tennis Match where the winner of 3 Sets / 5 Sets wins the Match        */
-/*                                                                                   */
-/*   The class uses Lombok java library to automatically generate                    */
-/*   Getters & Setters. More information on the link: https://www.projectlombok.org/ */
-/*                                                                                   */
-/* ********************************************************************************* */
+package main.java.com.tennis;
 
 
 class Match {

@@ -1,23 +1,7 @@
-package main.java.com.ismaillagouilly.tennis;
+package main.java.com.tennis;
 
 import java.util.Arrays;
 import java.util.List;
-
-/**
- * Created by Ismail Lagouilly.
- */
-
-/* ********************************************************************************* */
-/*                                                                                   */
-/*  Game Class                                                                       */
-/*                                                                                   */
-/*  Manages a Game by playing points until one player wins a Game.                   */
-/*                                                                                   */
-/*   The class uses Lombok java library to automatically generate                    */
-/*   Getters & Setters. More information on the link: https://www.projectlombok.org/ */
-/*                                                                                   */
-/* ********************************************************************************* */
-
 
 class Game {
 

@@ -1,21 +1,4 @@
-package main.java.com.ismaillagouilly.tennis;
-
-
-
-/**
- * Created by Ismail Lagouilly.
- */
-
-/* ********************************************************************************* */
-/*                                                                                   */
-/*  Set Class                                                                        */
-/*                                                                                   */
-/*  Manages a Set by playing Games until one Player wins a set.                      */
-/*                                                                                   */
-/*   The class uses Lombok java library to automatically generate                    */
-/*   Getters & Setters. More information on the link: https://www.projectlombok.org/ */
-/*                                                                                   */
-/* ********************************************************************************* */
+package main.java.com.tennis;
 
 
 class Set {

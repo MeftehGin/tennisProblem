@@ -1,15 +1,6 @@
-package main.java.com.ismaillagouilly.tennis;
+package main.java.com.tennis;
 
-/**
- * Created by Ismail Lagouilly.
- */
-/* ********************************************************************************* */
-/*                                                                                   */
-/*  DisplayInformationImpl Class                                                     */
-/*                                                                                   */
-/*  Defines the methods required to display information about a Tennis Game          */
-/*                                                                                   */
-/* ********************************************************************************* */
+
 public class DisplayInformationImpl implements DisplayInformation {
 
     @Override
